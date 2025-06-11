@@ -22,8 +22,8 @@ title: bl4ckv01d | A Self-Learner’s Diary
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is where I share everything I've been learning on my own, mainly about cybersecurity and technology. It's my study journal full of experiences, mistakes, and discoveries.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bl4ckv01d-blog" # the subpath of your site, e.g. /blog
+url: "ronaldonetto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  ronaldonetto
 
